@@ -1,0 +1,18 @@
+{
+  "name": "@collinquiason/sieve-of-eratosthenes",
+  "version": "0.0.1",
+  "description": "finds prime numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prime",
+    "numbers",
+    "sieve",
+    "of",
+    "eratosthenes"
+  ],
+  "author": "Collin Quiason Rottinghaus",
+  "license": "ISC"
+}
